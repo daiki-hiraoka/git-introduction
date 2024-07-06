@@ -9,3 +9,5 @@ commit 2
 fetch 1
 
 fetch 2
+
+pull 1
