@@ -11,3 +11,5 @@ fetch 1
 fetch 2
 
 pull 1
+
+チーム開発想定
