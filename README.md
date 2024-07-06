@@ -7,3 +7,5 @@ commit 1
 commit 2
 
 fetch 1
+
+fetch 2
